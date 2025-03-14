@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.intro{
+    background: #100f13 url(img/GIFS.gif) no-repeat center center;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
